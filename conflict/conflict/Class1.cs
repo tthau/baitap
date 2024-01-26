@@ -11,7 +11,7 @@ namespace conflict
         int x = 2;
         int y = 3;
         int z = 4;
-        int a;
+        int a = 10;
         int b;
     }
 }
